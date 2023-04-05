@@ -1,5 +1,5 @@
 {
-  "name": "typescript-npm-package-template",
+  "name": "sumer-email-templates",
   "version": "0.0.0-development",
   "description": "A template for creating npm packages using TypeScript and VSCode",
   "main": "./src/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryansonshine/typescript-npm-package-template.git"
+    "url": "git+https://github.com/getsumer/sumer-email-templates.git"
   },
   "license": "MIT",
   "author": {
